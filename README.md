@@ -24,7 +24,7 @@ npm install
 ## Executando aplicação
 
 
-* Pasta raiz:
+> Pasta raiz:
 
   ```
     npm start
